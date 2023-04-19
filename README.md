@@ -4,7 +4,7 @@ The Random Quote Generator is a project that allows you to retrieve a random quo
 
 ## Features
 
-- The project retrieves a random quote from the [Quotes API](https://quotes.rest/qod) and displays it on the screen.
+- The project retrieves a random quote from the [Quotes API] and displays it on the screen.
 - The quote is displayed along with the author's name and a button to generate a new quote.
 - The project uses asynchronous JavaScript to retrieve the quote from the API and update the HTML without refreshing the page.
 - The project is designed to be responsive and works well on mobile, tablet, and desktop devices.
