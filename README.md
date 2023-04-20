@@ -25,4 +25,4 @@ If you want to contribute to the project, feel free to submit a pull request wit
 
 ## License
 
-The Random Quote Generator project is licensed under the [MIT License](https://github.com/username/repo/blob/master/LICENSE). You are free to use and modify the project as you see fit, as long as you provide attribution to the original project and include the same license in your modified version.
+The Random Quote Generator project is licensed under the [MIT License](https://github.com/username/repo/blob/master/LICENSE). You are free to use and modify  the  project as you see fit, as long as you provide attribution to the original project and include the same license in your modified version.
