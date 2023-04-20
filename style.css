@@ -1,0 +1,19 @@
+/* Code formatter  in vscode ctrl+ shift + I */
+.card {
+    width: 60%;
+    margin: 0 auto;
+}
+.card_container {
+    width: 100%;
+    margin-top: 5rem;
+}
+.heading{
+    text-align: center;
+}
+body {
+    background-image:url(sam-ueGaQiHV86o-unsplash.jpg);
+    max-width: 100%;
+    width: 100%;
+    background-size: cover;
+
+}
